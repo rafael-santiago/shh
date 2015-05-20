@@ -29,8 +29,8 @@ The usage of ``shh`` is pretty straightforward:
 
 ``shh <.wav input file path> <.wav output file path>``
 
-Note that is important avoid using instrumental songs ``shh``, otherwise the vocal reduction
-will not work... ok?! :-P
+Note that is important avoid using instrumental songs with ``shh`` otherwise the vocal reduction
+will not work....
 
 and...
 

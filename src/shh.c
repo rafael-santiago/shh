@@ -1,3 +1,10 @@
+/*
+ *                                Copyright (C) 2015 by Rafael Santiago
+ *
+ * This is a free software. You can redistribute it and/or modify under
+ * the terms of the GNU General Public License version 2.
+ *
+ */
 /*one-two-three-four...*\olensnryfnagvntbzprqvgebpxf)i?z;*/#include "bazzinga.h"
 #define jh(i)((((zy)(i))==0x0)?hh(&c,qp[1&(~(~0xf) )]):((zy)(i)==1)?kk(qp[(2>>1\
 )&(~0x0)],c.z.j):(( (zy)(i))==(0x4>>1))?lz(L,c.z.j,X):(((zy)(i))==(0x7>>1))?zl(\
